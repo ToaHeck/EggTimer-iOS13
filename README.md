@@ -26,6 +26,7 @@ This is a simple iOS application built in Swift 5 that serves as an egg timer. T
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/ToaHeck/EggTimer-iOS13.git
+   
 2. Open the project in Xcode.
 3. Build and run the application on the iOS simulator or a physical device.
 
