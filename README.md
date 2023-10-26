@@ -24,11 +24,12 @@ This is a simple iOS application built in Swift 5 that serves as an egg timer. T
 ### Installation
 
 1. Clone the repository to your local machine.
-
+   ```bash
+   git clone https://github.com/ToaHeck/EggTimer-iOS13.git  
 2. Open the project in Xcode.
 3. Build and run the application on the iOS simulator or a physical device.
 
-##Usage
+## Usage
 
 1. Launch the app on your iOS device.
 2. Choose the desired egg cooking level by tapping the corresponding button: Soft, Medium, or Hard.
@@ -36,7 +37,7 @@ This is a simple iOS application built in Swift 5 that serves as an egg timer. T
 4. Wait for the timer to complete.
 5. When the progress bar reaches 100%, an alarm will sound, and the text on the screen will change to "DONE!".
 
-##Contact
+## Contact
 
 For questions or feedback, feel free to email me at toaheck1@gmail.com
    
